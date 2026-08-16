@@ -1,0 +1,23 @@
+{
+  "short_name": "السيدة زينب",
+  "name": "مسمط وكوارع السيدة زينب",
+  "icons": [
+    {
+      "src": "images/logotempo.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/logotempo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f2f2f7",
+  "theme_color": "#2e7d32",
+  "display": "standalone",
+  "orientation": "portrait"
+}
