@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sayyida-zeinab-v2';
+const CACHE_NAME = 'sayyida-zeinab-v3';
 const STATIC_ASSETS = [
   './',
   './index.html',
